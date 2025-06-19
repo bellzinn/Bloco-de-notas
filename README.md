@@ -1,16 +1,17 @@
-# bloco_notas_novo
+# bloco_notas_web
 
-A new Flutter project.
+Este é um projeto de um Bloco de Notas simples desenvolvido utilizando Flutter, com suporte para Web e outras plataformas.
 
-## Getting Started
+Funcionalidades principais:
+  Criação, edição e exclusão de anotações
 
-This project is a starting point for a Flutter application.
+  Interface responsiva e leve
 
-A few resources to get you started if this is your first Flutter project:
+  Persistência local de dados (usando SQLite ou SharedPreferences, dependendo da plataforma)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Tecnologias utilizadas:
+  Flutter (Dart)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  Flutter Web
+
+  SQLite
