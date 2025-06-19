@@ -1,0 +1,74 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+generated_plugin_registrant.dart
+
+# IDEs
+.idea/
+*.iml
+.metadata
+*.ipr
+*.iws
+*.bak
+
+# VS Code
+.vscode/
+
+# Android
+android/.gradle/
+android/captures/
+android/local.properties
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/ServiceDefinitions.json
+ios/Runner.xcworkspace/
+Flutter/ephemeral/
+
+# macOS
+macos/Flutter/Flutter.framework
+macos/Pods/
+macos/.symlinks/
+
+# Windows
+windows/.vs/
+windows/flutter/generated_plugin_registrant.*
+windows/runner/Debug/
+windows/runner/Release/
+
+# Web
+web/.dart_tool/
+web/build/
+
+# Linux
+linux/.dart_tool/
+linux/build/
+
+# Other
+*.log
+*.tmp
+*.swp
+*.swo
+*.lock
+*.orig
+
+# Pub
+pubspec.lock
+
+# Dart tool
+.dart_tool/
+
+# Build output
+build/
+
+# Coverage
+coverage/
